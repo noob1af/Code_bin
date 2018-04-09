@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SimpleCalculator</string>
+    <string name="firstOperand">Enter first operand value</string>
+    <string name="SecondOperand">Enter second operand value</string>
+    <string name="Addition">ADD</string>
+    <string name="Subtraction">SUB</string>
+    <string name="Multiplication">MUL</string>
+    <string name="Division">DIV</string>
+    <string name="Result">Final Result</string>
+    <string name="showError">Error found</string>
+</resources>
